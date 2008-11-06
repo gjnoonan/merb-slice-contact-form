@@ -21,9 +21,9 @@ if defined?(Merb::Plugins)
   module MerbSliceContactForm
     
     # Slice metadata
-    self.description = "MerbSliceContactForm is a chunky Merb slice!"
+    self.description = "A slice that provides generic contact-form functionality for your merb app."
     self.version = "0.0.1"
-    self.author = "Engine Yard"
+    self.author = "Gavin-John Noonan"
     
     # Stub classes loaded hook - runs before LoadClasses BootLoader
     # right after a slice's classes have been loaded internally.

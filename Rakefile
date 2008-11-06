@@ -5,11 +5,11 @@ require 'merb-core'
 require 'merb-core/tasks/merb'
 
 GEM_NAME = "merb-slice-contact-form"
-AUTHOR = "Your Name"
-EMAIL = "Your Email"
-HOMEPAGE = "http://merbivore.com/"
-SUMMARY = "Merb Slice that provides ..."
-GEM_VERSION = "0.9.13"
+AUTHOR = "Gavin-John Noonan"
+EMAIL = "gavinjohn.noonan@gmail.com"
+HOMEPAGE = "http://github.com/AdulteratedJedi/merb-slice-contact-form/"
+SUMMARY = "A slice that provides generic contact-form functionality for your merb app."
+GEM_VERSION = "0.0.1"
 
 spec = Gem::Specification.new do |s|
   s.rubyforge_project = 'merb'
