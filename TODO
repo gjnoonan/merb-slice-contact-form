@@ -1,0 +1,15 @@
+TODO:
+
+- Fix MerbSliceContactForm.description and MerbSliceContactForm.version
+- Fix LICENSE with your name
+- Fix Rakefile with your name and contact info
+- Add your code to lib/merb-slice-contact-form.rb
+- Add your Merb rake tasks to lib/merb-slice-contact-form/merbtasks.rb
+
+Remove anything that you don't need:
+
+- app/controllers/main.rb MerbSliceContactForm::Main controller
+- app/views/layout/merb-slice-contact-form.html.erb
+- spec/controllers/main_spec.rb controller specs
+- public/* any public files
+- stubs/* any stub files
