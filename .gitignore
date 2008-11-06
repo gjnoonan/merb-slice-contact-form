@@ -1,0 +1,9 @@
+.DStore
+.DS_Store
+pkg
+pkg/*
+:memory:
+TAGS
+*~
+.#*
+*.tmproj
