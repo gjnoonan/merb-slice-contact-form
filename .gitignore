@@ -3,6 +3,7 @@
 pkg
 pkg/*
 :memory:
+log
 TAGS
 *~
 .#*

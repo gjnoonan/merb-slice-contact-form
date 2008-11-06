@@ -3,6 +3,7 @@ if defined?(Merb::Plugins)
   $:.unshift File.dirname(__FILE__)
 
   load_dependency 'merb-slices'
+  load_dependency 'merb-mailer'
   Merb::Plugins.add_rakefiles "merb-slice-contact-form/merbtasks", "merb-slice-contact-form/slicetasks", "merb-slice-contact-form/spectasks"
 
   # Register the Slice for the current host application
